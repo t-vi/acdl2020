@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand:400,700,400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700);
+
+#rise-header
+{
+    width: 90%;
+    z-index: 25;
+}
+
+#mathinf-logo-header
+{
+    float: right;
+    width: 8%;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6
+{ text-transform: none; 
+  font-family: "Quicksand", sans-serif;
+}
